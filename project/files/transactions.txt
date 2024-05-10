@@ -1,0 +1,5 @@
+deposito (+), 1000.0
+deposito (+), 200.0
+saque (-), 500.0
+deposito (+), 500.0
+saque (-), 1000.0

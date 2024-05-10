@@ -1,4 +1,0 @@
-
-deposito (+), 50.0
-deposito (+), 200.0
-saque (-), 100.0
